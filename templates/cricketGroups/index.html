@@ -14,10 +14,11 @@
 
 <div id="table">
     <table border=0>
-        {% for attr in team_name %}
-            <td>
-            <th>{{ attr }}</th>
-            </td>
+        {% for group_name, team_names in groups.items %}
+            <th>{{ group_name }}</th>
+            {% for team in team_names %}
+            <td>{{ team }}</td>
+            {% endfor %}
         {% endfor %}
     </table>
 </div>
