@@ -15,6 +15,7 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,6 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -44,7 +46,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="cricketClub.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -73,7 +74,8 @@
       <updated>1615959037031</updated>
       <workItem from="1615959038281" duration="284000" />
       <workItem from="1615959684866" duration="690000" />
-      <workItem from="1615960435463" duration="5339000" />
+      <workItem from="1615960435463" duration="11654000" />
+      <workItem from="1615993112429" duration="388000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615959885248</created>
