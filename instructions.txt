@@ -1,0 +1,5 @@
+1. Install packages in requirements file
+2. Change database arguements for postgreSQL
+3. Create SuperUser (Admin)
+4. Make Migrations
+5. Run server
